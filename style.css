@@ -1,0 +1,16 @@
+.body{
+    background-color: aquamarine;
+    color: black;
+}
+
+.name_of_objects{
+    color: darkcyan;
+    font-family: cursive;
+    font-size: large;
+}
+
+#heading{
+    background-color: mediumslateblue;
+    font-size: 49px;
+    font-family: fantasy;
+}
